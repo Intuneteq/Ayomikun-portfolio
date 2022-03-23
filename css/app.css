@@ -13,7 +13,7 @@ header {
 }
 
 .navBar {
-    background-color: black;
+    /* background-color: black; */
     display: flex;
     justify-content: space-between;
 }
@@ -220,6 +220,7 @@ nav{
 
 .aboutIt p {
     margin-right: 80px;
+    font-size: 25px;
 }
 
 .aboutIt img {
@@ -239,6 +240,10 @@ nav{
 #icon2 {
     margin-top: 100px;
 }
+
+/* .contactIcons {
+    background-color: black;
+} */
 
 
 

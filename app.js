@@ -1,8 +1,8 @@
 window.onload = function () {
-    const hide = document.getElementsByClassName('hide');
+    const hide = document.querySelector('.hide');
 const mouse = document.getElementsByClassName('navigation')
 
-hide.addEventListener('mouseover', () => {
+hide.addEventListener('mouseover', ()=> {
     mouse.classList.add('show');
 });
 
