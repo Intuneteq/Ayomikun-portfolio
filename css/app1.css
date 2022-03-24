@@ -1,7 +1,91 @@
+body {
+    background-color: #E5E5E5;
+    overflow-x: hidden;
+}
+
+/* header */
+
 #headers {
     background-color: #E5E5E5;
 }
 
+/* header End */
+
+/* page1 */
+
 .page-1 {
-    background-color: #E5E5E5;
+    font-family: 'Montserrat';
 }
+
+.page-1 h6 {
+    Font-size: 28px;
+    Line-height: 28px;
+    color: #36413D;
+    margin-bottom: 40px;
+    margin-top: 160px;
+}
+
+.page-1 p {
+    color: #36413D;
+    Font-size: 72px;
+    Line-height: 72px;
+    margin-bottom: 410px;
+}
+
+/* page1 End */
+
+/* Page2 */
+
+.page-2 p {
+    Font-family: Montserrat;
+    Font-style: Regular;
+    Font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 120px;
+}
+
+/* Page2 End */
+
+/* page4 */
+
+.page-4{
+    height: 6272px;
+}
+
+.information {
+    display: flex;
+    font-family: 'Montserrat';
+    color: #36413D;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+.information h6{
+    font-weight: 600;
+    Font-size: 22px;
+    margin-right: 150px;
+}
+
+.information p {
+    Font-size: 24px;
+    Line-height: 36px;
+}
+
+.caseStudy1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mt-10 {
+    margin-top: 180px;
+}
+
+#gap {
+    margin-top: -150px;
+}
+
+#gaps {
+    margin-top: -150px;
+}
+
+/* page4 End */
